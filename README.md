@@ -1,4 +1,4 @@
-# 💼 Employee Salary Predictor – ML Web App
+# 💼 Employee Salary Predictor –Web App
 
 📍 **Live Demo**: [Click here to view the app](https://employee-salary-predictor-app.streamlit.app/) 
 
@@ -72,3 +72,8 @@ The Random Forest model was evaluated on a hold-out test set:
 | Experience_Years    | 4               |
 | 💰 Predicted Salary | ₹ 1,32,000 / month |
 
+## 🔮 Future Recommendations
+- 🔁 **Retrain with Larger & Updated Dataset**  
+  Incorporate more real-world samples from industry sources for better generalization.
+- 🧑‍💼 **Add More Features**  
+  Include company size, location, skills, certifications, performance ratings, etc.
