@@ -15,7 +15,7 @@ from sklearn.impute import SimpleImputer
 from sklearn.metrics import mean_squared_error, r2_score
 
 # --- Page Config ---
-st.set_page_config(page_title=" Employee Salary Predictor", page_icon="💼", layout="centered")
+st.set_page_config(page_title="Smart Salary Estimator Using Machine Learning", page_icon="💼", layout="centered")
 
 # --- Custom CSS: Background + Font Styling ---
 st.markdown(
