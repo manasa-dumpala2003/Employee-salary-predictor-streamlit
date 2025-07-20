@@ -1,4 +1,4 @@
-# 💼 Employee Salary Predictor –Web App
+# 💼 Smart Salary Estimator –Web App
 
 📍 **Live Demo**: [Click here to view the app](https://employee-salary-predictor-app.streamlit.app/) 
 
