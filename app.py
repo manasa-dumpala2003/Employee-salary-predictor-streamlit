@@ -62,7 +62,7 @@ st.markdown(
 )
 
 # --- Title ---
-st.title("💼 Employee Salary Predictor with Model Selection")
+st.title("💼 Smart Salary Estimator")
 
 # --- Load Dataset ---
 @st.cache_data
