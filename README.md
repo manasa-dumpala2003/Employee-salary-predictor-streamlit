@@ -48,8 +48,8 @@ The Random Forest model was evaluated on a hold-out test set:
 
 | Metric                   | Value          |
 |---------------------------|----------------|
-| 📉 Mean Squared Error (MSE) | ~29,417,002    |
-| 📈 R² Score                | **0.958**       |
+| 📉 Mean Squared Error (MSE) | ~233,566,052    |
+| 📈 R² Score                | **0.91**       |
 | 📊 MAE (Mean Absolute Error) | ~4,856 INR      |
 
 > ✅ The model demonstrates **high accuracy** with an R² score of **95.8%**, indicating that it explains most of the variance in salary.
